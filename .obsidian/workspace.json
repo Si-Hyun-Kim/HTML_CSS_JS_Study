@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "4c68df23fd066564",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f39cdbec0e92af0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b948579f6e9b59c0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "281492af7a3a795f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2f5f537d60dc495",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46598b01e0e82bd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc5881a0f5870480",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ffaaa0e70bbb00c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62f64e492800ccc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "07221800007e4bbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e81e90443a01b034",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7f0fd92ee3206e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0c1f7d384c447c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "029bf9dd64e73679",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "46598b01e0e82bd9",
+  "lastOpenFiles": [
+    "02 HTML5 기본 문서 만들기/readme.md",
+    "02 HTML5 기본 문서 만들기/ex_02-05.html",
+    "02 HTML5 기본 문서 만들기/ex_02-04.html",
+    "02 HTML5 기본 문서 만들기/ex_02-03.html",
+    "02 HTML5 기본 문서 만들기/ex_02-01.html",
+    "02 HTML5 기본 문서 만들기/ex_02-02.html",
+    "02 HTML5 기본 문서 만들기",
+    "01 웹 프로그래밍과 HTML5 개요/readme.md",
+    "01 웹 프로그래밍과 HTML5 개요",
+    "Welcome.md"
+  ]
+}
