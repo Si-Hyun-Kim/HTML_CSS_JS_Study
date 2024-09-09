@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ex02-01.html.md",
+                "file": "02 HTML5 기본 문서 만들기/Code/ex02-01.html.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ex02-01.html.md",
+                "file": "02 HTML5 기본 문서 만들기/Code/ex02-01.html.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ex02-01.html.md",
+                "file": "02 HTML5 기본 문서 만들기/Code/ex02-01.html.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ex02-01.html.md"
+                "file": "02 HTML5 기본 문서 만들기/Code/ex02-01.html.md"
               }
             }
           },
@@ -168,10 +168,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66e6bd1d9fd9e57d",
+  "active": "46598b01e0e82bd9",
   "lastOpenFiles": [
     "02 HTML5 기본 문서 만들기/readme.md",
-    "ex02-01.html.md",
+    "02 HTML5 기본 문서 만들기/Code/ex02-01.html.md",
     "02 HTML5 기본 문서 만들기/Code",
     "01 웹 프로그래밍과 HTML5 개요/readme.md",
     "Welcome.md",
