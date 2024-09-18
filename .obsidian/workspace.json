@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,7 +156,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b948579f6e9b59c0",
+  "active": "7095f05be3d7ec4a",
   "lastOpenFiles": [
     "02 HTML5 기본 문서 만들기/Code/ex_02-01.html",
     "02 HTML5 기본 문서 만들기/Code/ex_02-05.html",
